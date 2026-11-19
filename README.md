@@ -6,9 +6,8 @@
 
 One 1024×1024 front page for Thursday 19 November 2026: a dated broadsheet whose three lead
 stories carry the day's biggest events — the Trump–Xi–Putin summit in Shenzhen, the GTA VI
-launch, and Anthropic's record Nasdaq listing — with a grid of twenty-five briefs across five columns — the storm in Odisha and The Hague's
-Myanmar judgment carry small plates of their own — covering the Hormuz tanker attack, Venezuela,
-Nigeria, Sudan, Peru, Nvidia, Voyager 1 and the day's markets. `main.ts` copies the authored `entry.png` into the grader's
+launch, and Anthropic's record Nasdaq listing — with a grid of twenty briefs covering the storm in Odisha, the Hormuz tanker attack, The Hague's
+Myanmar judgment, Venezuela, Nigeria, Voyager 1 and the day's markets. `main.ts` copies the authored `entry.png` into the grader's
 `/output` and checks it against the gate's size and dimension caps.
 
 ## Run it
